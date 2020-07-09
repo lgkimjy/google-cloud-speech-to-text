@@ -1,8 +1,5 @@
 # Google Cloud Speech to Text 인수인계
 
-### Google Cloud Account for Pino,Able
-
-
 ## Env Setting : 
 python2 환경에서 pip 설치 되고 있는지 확인 할 것
 
